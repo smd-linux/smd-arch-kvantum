@@ -1,2 +1,2 @@
-# smd-linux-template
-Template for Repositories
+# smd-arch-kvantum
+Credit: https://github.com/arcolinux/
